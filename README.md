@@ -1,3 +1,12 @@
+
+  ____                                 _               _           _ 
+ | __ )    ___   _ __ ___     __   __ (_)  _ __     __| |   ___   | |
+ |  _ \   / _ \ | '_ ` _ \    \ \ / / | | | '_ \   / _` |  / _ \  | |
+ | |_) | |  __/ | | | | | |    \ V /  | | | | | | | (_| | | (_) | |_|
+ |____/   \___| |_| |_| |_|     \_/   |_| |_| |_|  \__,_|  \___/  (_)
+                                                                     
+
+
 # <h1 align="center"> ⚇ Armazenamento na web - Mochila de viagem ⚇ </h1>
 
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-<BRIGHTGREEN)
