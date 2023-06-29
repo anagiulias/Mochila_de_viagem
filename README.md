@@ -7,7 +7,7 @@ O projeto é uma lista de itens para viagem, onde os dados são armazenados no l
 
 # ✘ Acesso ao Projeto
 Você pode acessar o projeto, por meio do link: </br>
-
+https://mochila-de-viagem-chi-beige.vercel.app
 
 # ✘ Tecnologias utilizadas
 * JavaScript
