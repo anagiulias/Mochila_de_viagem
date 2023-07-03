@@ -16,6 +16,9 @@ https://mochila-de-viagem-chi-beige.vercel.app
 * HTML
 * CSS
 
+## Direitos autorais
+O desenho da mochila foi feito por mim.
+
 ## ✘ Pessoas Desenvolvedoras do Projeto 
 | [<img src="https://avatars.githubusercontent.com/u/115855530?v=4" width=115><br><sub>Ana Giulia Santos</sub>](https://github.com/anagiulias)
 | :---: |
