@@ -16,7 +16,7 @@ https://mochila-de-viagem-chi-beige.vercel.app
 * HTML
 * CSS
 
-## Direitos autorais
+## ✘ Direitos autorais
 O desenho da mochila foi feito por mim.
 
 ## ✘ Pessoas Desenvolvedoras do Projeto 
