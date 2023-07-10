@@ -1,4 +1,4 @@
-![nome](https://github.com/anagiulias/Tier_List_Times_GI-V1.1/assets/115855530/24fa2164-afad-41ce-abbc-62f14fb15048)
+![nome](https://github.com/anagiulias/Mochila_de_viagem/assets/115855530/9c689d1d-ebb5-4f0a-a591-f1ba166bdcf8)
 
 # <h1 align="center"> ⚇ Armazenamento na web - Mochila de viagem ⚇ </h1>
 
